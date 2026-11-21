@@ -1,0 +1,23 @@
+[
+    {
+        "id": "ORD-1795240273",
+        "tanggal_pinjam": "2026-11-22",
+        "tanggal_kembali": "2026-11-29",
+        "rental_days": 7,
+        "items": [
+            {
+                "transaction_id": "TRX-1398DC",
+                "book_id": "1",
+                "title": "Dasar Pemrograman Web",
+                "cost": 84000
+            },
+            {
+                "transaction_id": "TRX-1398FC",
+                "book_id": "2",
+                "title": "Pemrograman Berorientasi Objek dengan PHP",
+                "cost": 112000
+            }
+        ],
+        "total_cost": 196000
+    }
+]

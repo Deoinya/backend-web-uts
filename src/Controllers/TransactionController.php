@@ -22,9 +22,11 @@ class TransactionController
 
     public function checkout(array $input): string
     {
-        $bookIds = $input['book_ids'] ?? [];
-        if (!is_array($bookIds)) {
-            $bookIds = [$bookIds];
+        $rawBookIds = $input['book_ids'] ?? '';
+        if (is_array($rawBookIds)) {
+            $bookIds = $rawBookIds;
+        } else {
+            $bookIds = array_filter(array_map('trim', explode(',', (string)$rawBookIds)));
         }
 
         $rentalDays = (int)($input['rental_days'] ?? $input['durasi'] ?? 7);
@@ -103,6 +105,8 @@ class TransactionController
         $this->bookStorage->writeAll($allBooks);
         $this->transactionStorage->append([
             'id' => 'ORD-' . time(),
+            'user_id' => $input['user_id'] ?? 'M-GUEST',
+            'user_email' => $input['user_email'] ?? '',
             'tanggal_pinjam' => $startDate,
             'tanggal_kembali' => date('Y-m-d', strtotime($startDate . " +{$rentalDays} days")),
             'rental_days' => $rentalDays,
@@ -118,6 +122,42 @@ class TransactionController
                 'rental_days' => $rentalDays,
                 'items' => $processedItems
             ]
+        ]);
+    }
+    public function getHistory(?string $email = null): string
+    {
+        $allTransactions = $this->transactionStorage->readAll();
+        $history = [];
+
+        foreach ($allTransactions as $trx) {
+            // Jika user sedang login (email dikirim), filter riwayat milik user tersebut
+            if ($email && !empty($trx['user_email']) && strcasecmp($trx['user_email'], $email) !== 0) {
+                continue;
+            }
+
+            $startDate = $trx['tanggal_pinjam'] ?? '-';
+            $dueDate = $trx['tanggal_kembali'] ?? '-';
+            $status = ($dueDate !== '-' && strtotime($dueDate) < strtotime(date('Y-m-d')))
+                ? 'Selesai'
+                : 'Sedang dipinjam';
+
+            foreach (($trx['items'] ?? []) as $item) {
+                $history[] = [
+                    'transaction_id' => $item['transaction_id'] ?? ($trx['id'] ?? '-'),
+                    'title' => $item['title'] ?? 'Tanpa Judul',
+                    'tanggal_pinjam' => $startDate,
+                    'tanggal_kembali' => $dueDate,
+                    'status' => $status
+                ];
+            }
+        }
+
+        // Urutkan transaksi terbaru di paling atas
+        $history = array_reverse($history);
+
+        return json_encode([
+            'status' => 'success',
+            'data' => $history
         ]);
     }
 }

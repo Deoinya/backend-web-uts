@@ -6,7 +6,7 @@
     "category": "Teknologi",
     "price": 15000,
     "status": "available",
-    "cover": "public/images/covers/buku-01.jpg"
+    "cover": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='320' viewBox='0 0 240 320'><rect width='240' height='320' fill='%231e3a8a'/><rect x='16' y='16' width='208' height='288' rx='8' fill='none' stroke='%2393c5fd' stroke-width='2'/><text x='120' y='60' fill='%2393c5fd' font-family='sans-serif' font-size='12' font-weight='bold' text-anchor='middle'>TEKNOLOGI</text><text x='120' y='145' fill='%23ffffff' font-family='sans-serif' font-size='18' font-weight='bold' text-anchor='middle'>Dasar Pemrograman</text><text x='120' y='170' fill='%23ffffff' font-family='sans-serif' font-size='18' font-weight='bold' text-anchor='middle'>Web</text><text x='120' y='275' fill='%23dbeafe' font-family='sans-serif' font-size='13' text-anchor='middle'>Rina Setiawati</text></svg>"
   },
   {
     "id": "2",
@@ -15,7 +15,7 @@
     "category": "Teknologi",
     "price": 20000,
     "status": "available",
-    "cover": "public/images/covers/buku-02.jpg"
+    "cover": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='320' viewBox='0 0 240 320'><rect width='240' height='320' fill='%230f172a'/><rect x='16' y='16' width='208' height='288' rx='8' fill='none' stroke='%2338bdf8' stroke-width='2'/><text x='120' y='60' fill='%2338bdf8' font-family='sans-serif' font-size='12' font-weight='bold' text-anchor='middle'>TEKNOLOGI</text><text x='120' y='135' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>Pemrograman</text><text x='120' y='160' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>Berorientasi Objek</text><text x='120' y='185' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>dengan PHP</text><text x='120' y='275' fill='%23e2e8f0' font-family='sans-serif' font-size='13' text-anchor='middle'>Bagas Pratama</text></svg>"
   },
   {
     "id": "3",
@@ -23,8 +23,8 @@
     "author": "Dewi Anggraini",
     "category": "Sains",
     "price": 18000,
-    "status": "borrowed",
-    "cover": "public/images/covers/buku-03.jpg"
+    "status": "available",
+    "cover": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='320' viewBox='0 0 240 320'><rect width='240' height='320' fill='%23065f46'/><rect x='16' y='16' width='208' height='288' rx='8' fill='none' stroke='%236ee7b7' stroke-width='2'/><text x='120' y='60' fill='%236ee7b7' font-family='sans-serif' font-size='12' font-weight='bold' text-anchor='middle'>SAINS</text><text x='120' y='145' fill='%23ffffff' font-family='sans-serif' font-size='18' font-weight='bold' text-anchor='middle'>Jejak Bintang di</text><text x='120' y='170' fill='%23ffffff' font-family='sans-serif' font-size='18' font-weight='bold' text-anchor='middle'>Langit Nusantara</text><text x='120' y='275' fill='%23d1fae5' font-family='sans-serif' font-size='13' text-anchor='middle'>Dewi Anggraini</text></svg>"
   },
   {
     "id": "4",
@@ -33,7 +33,7 @@
     "category": "Fiksi",
     "price": 12000,
     "status": "available",
-    "cover": "public/images/covers/buku-04.jpg"
+    "cover": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='320' viewBox='0 0 240 320'><rect width='240' height='320' fill='%23881337'/><rect x='16' y='16' width='208' height='288' rx='8' fill='none' stroke='%23fda4af' stroke-width='2'/><text x='120' y='60' fill='%23fda4af' font-family='sans-serif' font-size='12' font-weight='bold' text-anchor='middle'>FIKSI</text><text x='120' y='145' fill='%23ffffff' font-family='sans-serif' font-size='18' font-weight='bold' text-anchor='middle'>Surat dari</text><text x='120' y='170' fill='%23ffffff' font-family='sans-serif' font-size='18' font-weight='bold' text-anchor='middle'>Kota Hujan</text><text x='120' y='275' fill='%23ffe4e6' font-family='sans-serif' font-size='13' text-anchor='middle'>Maya Kusuma</text></svg>"
   },
   {
     "id": "5",
@@ -42,7 +42,7 @@
     "category": "Bisnis",
     "price": 25000,
     "status": "available",
-    "cover": "public/images/covers/buku-05.jpg"
+    "cover": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='320' viewBox='0 0 240 320'><rect width='240' height='320' fill='%2378350f'/><rect x='16' y='16' width='208' height='288' rx='8' fill='none' stroke='%23fcd34d' stroke-width='2'/><text x='120' y='60' fill='%23fcd34d' font-family='sans-serif' font-size='12' font-weight='bold' text-anchor='middle'>BISNIS</text><text x='120' y='145' fill='%23ffffff' font-family='sans-serif' font-size='18' font-weight='bold' text-anchor='middle'>Merintis Usaha</text><text x='120' y='170' fill='%23ffffff' font-family='sans-serif' font-size='18' font-weight='bold' text-anchor='middle'>dari Nol</text><text x='120' y='275' fill='%23fef3c7' font-family='sans-serif' font-size='13' text-anchor='middle'>Hendra Wijaya</text></svg>"
   },
   {
     "id": "6",
@@ -51,6 +51,6 @@
     "category": "Teknologi",
     "price": 15000,
     "status": "available",
-    "cover": "public/images/covers/buku-06.jpg"
+    "cover": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='320' viewBox='0 0 240 320'><rect width='240' height='320' fill='%234c1d95'/><rect x='16' y='16' width='208' height='288' rx='8' fill='none' stroke='%23c4b5fd' stroke-width='2'/><text x='120' y='60' fill='%23c4b5fd' font-family='sans-serif' font-size='12' font-weight='bold' text-anchor='middle'>TEKNOLOGI</text><text x='120' y='145' fill='%23ffffff' font-family='sans-serif' font-size='18' font-weight='bold' text-anchor='middle'>Git dan</text><text x='120' y='170' fill='%23ffffff' font-family='sans-serif' font-size='18' font-weight='bold' text-anchor='middle'>Kolaborasi Tim</text><text x='120' y='275' fill='%23ede9fe' font-family='sans-serif' font-size='13' text-anchor='middle'>Fajar Nugroho</text></svg>"
   }
 ]
