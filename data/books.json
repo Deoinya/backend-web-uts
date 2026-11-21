@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "title": "Dasar Pemrograman Web",
+    "author": "Rina Setiawati",
+    "category": "Teknologi",
+    "price": 15000,
+    "status": "available",
+    "cover": "public/images/covers/buku-01.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Pemrograman Berorientasi Objek dengan PHP",
+    "author": "Bagas Pratama",
+    "category": "Teknologi",
+    "price": 20000,
+    "status": "available",
+    "cover": "public/images/covers/buku-02.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Jejak Bintang di Langit Nusantara",
+    "author": "Dewi Anggraini",
+    "category": "Sains",
+    "price": 18000,
+    "status": "borrowed",
+    "cover": "public/images/covers/buku-03.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Surat dari Kota Hujan",
+    "author": "Maya Kusuma",
+    "category": "Fiksi",
+    "price": 12000,
+    "status": "available",
+    "cover": "public/images/covers/buku-04.jpg"
+  },
+  {
+    "id": "5",
+    "title": "Merintis Usaha dari Nol",
+    "author": "Hendra Wijaya",
+    "category": "Bisnis",
+    "price": 25000,
+    "status": "available",
+    "cover": "public/images/covers/buku-05.jpg"
+  },
+  {
+    "id": "6",
+    "title": "Git dan Kolaborasi Tim",
+    "author": "Fajar Nugroho",
+    "category": "Teknologi",
+    "price": 15000,
+    "status": "available",
+    "cover": "public/images/covers/buku-06.jpg"
+  }
+]
