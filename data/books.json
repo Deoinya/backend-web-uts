@@ -6,7 +6,7 @@
     "category": "Teknologi",
     "price": 15000,
     "status": "available",
-    "cover": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='320' viewBox='0 0 240 320'><rect width='240' height='320' fill='%231e3a8a'/><rect x='16' y='16' width='208' height='288' rx='8' fill='none' stroke='%2393c5fd' stroke-width='2'/><text x='120' y='60' fill='%2393c5fd' font-family='sans-serif' font-size='12' font-weight='bold' text-anchor='middle'>TEKNOLOGI</text><text x='120' y='145' fill='%23ffffff' font-family='sans-serif' font-size='18' font-weight='bold' text-anchor='middle'>Dasar Pemrograman</text><text x='120' y='170' fill='%23ffffff' font-family='sans-serif' font-size='18' font-weight='bold' text-anchor='middle'>Web</text><text x='120' y='275' fill='%23dbeafe' font-family='sans-serif' font-size='13' text-anchor='middle'>Rina Setiawati</text></svg>"
+    "cover": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='320' viewBox='0 0 240 320'><rect width='240' height='320' fill='%231e3a8a'/><rect x='16' y='16' width='208' height='288' rx='8' fill='none' stroke='%2393c5fd' stroke-width='2'/><text x='120' y='60' fill='%2393c5fd' font-family='sans-serif' font-size='12' font-weight='bold' text-anchor='middle'>TEKNOLOGI</text><text x='120' y='145' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>Dasar Pemrograman</text><text x='120' y='170' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>Web</text><text x='120' y='275' fill='%23dbeafe' font-family='sans-serif' font-size='13' text-anchor='middle'>Rina Setiawati</text></svg>"
   },
   {
     "id": "2",
@@ -15,7 +15,7 @@
     "category": "Teknologi",
     "price": 20000,
     "status": "available",
-    "cover": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='320' viewBox='0 0 240 320'><rect width='240' height='320' fill='%230f172a'/><rect x='16' y='16' width='208' height='288' rx='8' fill='none' stroke='%2338bdf8' stroke-width='2'/><text x='120' y='60' fill='%2338bdf8' font-family='sans-serif' font-size='12' font-weight='bold' text-anchor='middle'>TEKNOLOGI</text><text x='120' y='135' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>Pemrograman</text><text x='120' y='160' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>Berorientasi Objek</text><text x='120' y='185' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>dengan PHP</text><text x='120' y='275' fill='%23e2e8f0' font-family='sans-serif' font-size='13' text-anchor='middle'>Bagas Pratama</text></svg>"
+    "cover": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='320' viewBox='0 0 240 320'><rect width='240' height='320' fill='%230f172a'/><rect x='16' y='16' width='208' height='288' rx='8' fill='none' stroke='%2338bdf8' stroke-width='2'/><text x='120' y='60' fill='%2338bdf8' font-family='sans-serif' font-size='12' font-weight='bold' text-anchor='middle'>TEKNOLOGI</text><text x='120' y='135' fill='%23ffffff' font-family='sans-serif' font-size='16' font-weight='bold' text-anchor='middle'>Pemrograman</text><text x='120' y='160' fill='%23ffffff' font-family='sans-serif' font-size='16' font-weight='bold' text-anchor='middle'>Berorientasi Objek</text><text x='120' y='185' fill='%23ffffff' font-family='sans-serif' font-size='16' font-weight='bold' text-anchor='middle'>dengan PHP</text><text x='120' y='275' fill='%23e2e8f0' font-family='sans-serif' font-size='13' text-anchor='middle'>Bagas Pratama</text></svg>"
   },
   {
     "id": "3",
@@ -24,7 +24,7 @@
     "category": "Sains",
     "price": 18000,
     "status": "available",
-    "cover": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='320' viewBox='0 0 240 320'><rect width='240' height='320' fill='%23065f46'/><rect x='16' y='16' width='208' height='288' rx='8' fill='none' stroke='%236ee7b7' stroke-width='2'/><text x='120' y='60' fill='%236ee7b7' font-family='sans-serif' font-size='12' font-weight='bold' text-anchor='middle'>SAINS</text><text x='120' y='145' fill='%23ffffff' font-family='sans-serif' font-size='18' font-weight='bold' text-anchor='middle'>Jejak Bintang di</text><text x='120' y='170' fill='%23ffffff' font-family='sans-serif' font-size='18' font-weight='bold' text-anchor='middle'>Langit Nusantara</text><text x='120' y='275' fill='%23d1fae5' font-family='sans-serif' font-size='13' text-anchor='middle'>Dewi Anggraini</text></svg>"
+    "cover": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='320' viewBox='0 0 240 320'><rect width='240' height='320' fill='%23065f46'/><rect x='16' y='16' width='208' height='288' rx='8' fill='none' stroke='%236ee7b7' stroke-width='2'/><text x='120' y='60' fill='%236ee7b7' font-family='sans-serif' font-size='12' font-weight='bold' text-anchor='middle'>SAINS</text><text x='120' y='145' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>Jejak Bintang di</text><text x='120' y='170' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>Langit Nusantara</text><text x='120' y='275' fill='%23d1fae5' font-family='sans-serif' font-size='13' text-anchor='middle'>Dewi Anggraini</text></svg>"
   },
   {
     "id": "4",
@@ -33,7 +33,7 @@
     "category": "Fiksi",
     "price": 12000,
     "status": "available",
-    "cover": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='320' viewBox='0 0 240 320'><rect width='240' height='320' fill='%23881337'/><rect x='16' y='16' width='208' height='288' rx='8' fill='none' stroke='%23fda4af' stroke-width='2'/><text x='120' y='60' fill='%23fda4af' font-family='sans-serif' font-size='12' font-weight='bold' text-anchor='middle'>FIKSI</text><text x='120' y='145' fill='%23ffffff' font-family='sans-serif' font-size='18' font-weight='bold' text-anchor='middle'>Surat dari</text><text x='120' y='170' fill='%23ffffff' font-family='sans-serif' font-size='18' font-weight='bold' text-anchor='middle'>Kota Hujan</text><text x='120' y='275' fill='%23ffe4e6' font-family='sans-serif' font-size='13' text-anchor='middle'>Maya Kusuma</text></svg>"
+    "cover": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='320' viewBox='0 0 240 320'><rect width='240' height='320' fill='%23881337'/><rect x='16' y='16' width='208' height='288' rx='8' fill='none' stroke='%23fda4af' stroke-width='2'/><text x='120' y='60' fill='%23fda4af' font-family='sans-serif' font-size='12' font-weight='bold' text-anchor='middle'>FIKSI</text><text x='120' y='145' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>Surat dari</text><text x='120' y='170' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>Kota Hujan</text><text x='120' y='275' fill='%23ffe4e6' font-family='sans-serif' font-size='13' text-anchor='middle'>Maya Kusuma</text></svg>"
   },
   {
     "id": "5",
@@ -42,7 +42,7 @@
     "category": "Bisnis",
     "price": 25000,
     "status": "available",
-    "cover": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='320' viewBox='0 0 240 320'><rect width='240' height='320' fill='%2378350f'/><rect x='16' y='16' width='208' height='288' rx='8' fill='none' stroke='%23fcd34d' stroke-width='2'/><text x='120' y='60' fill='%23fcd34d' font-family='sans-serif' font-size='12' font-weight='bold' text-anchor='middle'>BISNIS</text><text x='120' y='145' fill='%23ffffff' font-family='sans-serif' font-size='18' font-weight='bold' text-anchor='middle'>Merintis Usaha</text><text x='120' y='170' fill='%23ffffff' font-family='sans-serif' font-size='18' font-weight='bold' text-anchor='middle'>dari Nol</text><text x='120' y='275' fill='%23fef3c7' font-family='sans-serif' font-size='13' text-anchor='middle'>Hendra Wijaya</text></svg>"
+    "cover": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='320' viewBox='0 0 240 320'><rect width='240' height='320' fill='%2378350f'/><rect x='16' y='16' width='208' height='288' rx='8' fill='none' stroke='%23fcd34d' stroke-width='2'/><text x='120' y='60' fill='%23fcd34d' font-family='sans-serif' font-size='12' font-weight='bold' text-anchor='middle'>BISNIS</text><text x='120' y='145' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>Merintis Usaha</text><text x='120' y='170' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>dari Nol</text><text x='120' y='275' fill='%23fef3c7' font-family='sans-serif' font-size='13' text-anchor='middle'>Hendra Wijaya</text></svg>"
   },
   {
     "id": "6",
@@ -51,6 +51,168 @@
     "category": "Teknologi",
     "price": 15000,
     "status": "available",
-    "cover": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='320' viewBox='0 0 240 320'><rect width='240' height='320' fill='%234c1d95'/><rect x='16' y='16' width='208' height='288' rx='8' fill='none' stroke='%23c4b5fd' stroke-width='2'/><text x='120' y='60' fill='%23c4b5fd' font-family='sans-serif' font-size='12' font-weight='bold' text-anchor='middle'>TEKNOLOGI</text><text x='120' y='145' fill='%23ffffff' font-family='sans-serif' font-size='18' font-weight='bold' text-anchor='middle'>Git dan</text><text x='120' y='170' fill='%23ffffff' font-family='sans-serif' font-size='18' font-weight='bold' text-anchor='middle'>Kolaborasi Tim</text><text x='120' y='275' fill='%23ede9fe' font-family='sans-serif' font-size='13' text-anchor='middle'>Fajar Nugroho</text></svg>"
+    "cover": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='320' viewBox='0 0 240 320'><rect width='240' height='320' fill='%234c1d95'/><rect x='16' y='16' width='208' height='288' rx='8' fill='none' stroke='%23c4b5fd' stroke-width='2'/><text x='120' y='60' fill='%23c4b5fd' font-family='sans-serif' font-size='12' font-weight='bold' text-anchor='middle'>TEKNOLOGI</text><text x='120' y='145' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>Git dan</text><text x='120' y='170' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>Kolaborasi Tim</text><text x='120' y='275' fill='%23ede9fe' font-family='sans-serif' font-size='13' text-anchor='middle'>Fajar Nugroho</text></svg>"
+  },
+  {
+    "id": "7",
+    "title": "Arsitektur Microservices Modern",
+    "author": "Dimas Saputra",
+    "category": "Teknologi",
+    "price": 28000,
+    "status": "available",
+    "cover": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='320' viewBox='0 0 240 320'><rect width='240' height='320' fill='%231d4ed8'/><rect x='16' y='16' width='208' height='288' rx='8' fill='none' stroke='%23bfdbfe' stroke-width='2'/><text x='120' y='60' fill='%23bfdbfe' font-family='sans-serif' font-size='12' font-weight='bold' text-anchor='middle'>TEKNOLOGI</text><text x='120' y='145' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>Arsitektur</text><text x='120' y='170' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>Microservices</text><text x='120' y='275' fill='%23dbeafe' font-family='sans-serif' font-size='13' text-anchor='middle'>Dimas Saputra</text></svg>"
+  },
+  {
+    "id": "8",
+    "title": "Fisika Kuantum untuk Pemula",
+    "author": "Dr. Arif Budiman",
+    "category": "Sains",
+    "price": 22000,
+    "status": "available",
+    "cover": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='320' viewBox='0 0 240 320'><rect width='240' height='320' fill='%23047857'/><rect x='16' y='16' width='208' height='288' rx='8' fill='none' stroke='%23a7f3d0' stroke-width='2'/><text x='120' y='60' fill='%23a7f3d0' font-family='sans-serif' font-size='12' font-weight='bold' text-anchor='middle'>SAINS</text><text x='120' y='145' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>Fisika Kuantum</text><text x='120' y='170' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>untuk Pemula</text><text x='120' y='275' fill='%23d1fae5' font-family='sans-serif' font-size='13' text-anchor='middle'>Dr. Arif Budiman</text></svg>"
+  },
+  {
+    "id": "9",
+    "title": "Senja di Pelabuhan Sunda Kelapa",
+    "author": "Nadia Larasati",
+    "category": "Fiksi",
+    "price": 14000,
+    "status": "available",
+    "cover": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='320' viewBox='0 0 240 320'><rect width='240' height='320' fill='%239f1239'/><rect x='16' y='16' width='208' height='288' rx='8' fill='none' stroke='%23fecdd3' stroke-width='2'/><text x='120' y='60' fill='%23fecdd3' font-family='sans-serif' font-size='12' font-weight='bold' text-anchor='middle'>FIKSI</text><text x='120' y='145' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>Senja di Pelabuhan</text><text x='120' y='170' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>Sunda Kelapa</text><text x='120' y='275' fill='%23ffe4e6' font-family='sans-serif' font-size='13' text-anchor='middle'>Nadia Larasati</text></svg>"
+  },
+  {
+    "id": "10",
+    "title": "Strategi Pemasaran Digital 2026",
+    "author": "Rizky Ramadhan",
+    "category": "Bisnis",
+    "price": 24000,
+    "status": "available",
+    "cover": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='320' viewBox='0 0 240 320'><rect width='240' height='320' fill='%2392400e'/><rect x='16' y='16' width='208' height='288' rx='8' fill='none' stroke='%23fde68a' stroke-width='2'/><text x='120' y='60' fill='%23fde68a' font-family='sans-serif' font-size='12' font-weight='bold' text-anchor='middle'>BISNIS</text><text x='120' y='145' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>Strategi Pemasaran</text><text x='120' y='170' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>Digital 2026</text><text x='120' y='275' fill='%23fef3c7' font-family='sans-serif' font-size='13' text-anchor='middle'>Rizky Ramadhan</text></svg>"
+  },
+  {
+    "id": "11",
+    "title": "Algoritma dan Struktur Data",
+    "author": "Prof. Bambang Hermawan",
+    "category": "Teknologi",
+    "price": 21000,
+    "status": "available",
+    "cover": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='320' viewBox='0 0 240 320'><rect width='240' height='320' fill='%231e40af'/><rect x='16' y='16' width='208' height='288' rx='8' fill='none' stroke='%2393c5fd' stroke-width='2'/><text x='120' y='60' fill='%2393c5fd' font-family='sans-serif' font-size='12' font-weight='bold' text-anchor='middle'>TEKNOLOGI</text><text x='120' y='145' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>Algoritma dan</text><text x='120' y='170' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>Struktur Data</text><text x='120' y='275' fill='%23dbeafe' font-family='sans-serif' font-size='13' text-anchor='middle'>Prof. Bambang H.</text></svg>"
+  },
+  {
+    "id": "12",
+    "title": "Ekologi Hutan Tropis Indonesia",
+    "author": "Siti Nurhaliza",
+    "category": "Sains",
+    "price": 17000,
+    "status": "available",
+    "cover": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='320' viewBox='0 0 240 320'><rect width='240' height='320' fill='%2314532d'/><rect x='16' y='16' width='208' height='288' rx='8' fill='none' stroke='%2386efac' stroke-width='2'/><text x='120' y='60' fill='%2386efac' font-family='sans-serif' font-size='12' font-weight='bold' text-anchor='middle'>SAINS</text><text x='120' y='145' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>Ekologi Hutan</text><text x='120' y='170' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>Tropis Indonesia</text><text x='120' y='275' fill='%23dcfce7' font-family='sans-serif' font-size='13' text-anchor='middle'>Siti Nurhaliza</text></svg>"
+  },
+  {
+    "id": "13",
+    "title": "Rahasia di Balik Menara Jam",
+    "author": "Tere Liye-an",
+    "category": "Fiksi",
+    "price": 16000,
+    "status": "available",
+    "cover": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='320' viewBox='0 0 240 320'><rect width='240' height='320' fill='%23701a75'/><rect x='16' y='16' width='208' height='288' rx='8' fill='none' stroke='%23f5d0fe' stroke-width='2'/><text x='120' y='60' fill='%23f5d0fe' font-family='sans-serif' font-size='12' font-weight='bold' text-anchor='middle'>FIKSI</text><text x='120' y='145' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>Rahasia di Balik</text><text x='120' y='170' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>Menara Jam</text><text x='120' y='275' fill='%23fae8ff' font-family='sans-serif' font-size='13' text-anchor='middle'>Anisa Putri</text></svg>"
+  },
+  {
+    "id": "14",
+    "title": "Manajemen Keuangan Startup",
+    "author": "Kevin Wijaya",
+    "category": "Bisnis",
+    "price": 26000,
+    "status": "available",
+    "cover": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='320' viewBox='0 0 240 320'><rect width='240' height='320' fill='%237c2d12'/><rect x='16' y='16' width='208' height='288' rx='8' fill='none' stroke='%23fed7aa' stroke-width='2'/><text x='120' y='60' fill='%23fed7aa' font-family='sans-serif' font-size='12' font-weight='bold' text-anchor='middle'>BISNIS</text><text x='120' y='145' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>Manajemen Keuangan</text><text x='120' y='170' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>Startup</text><text x='120' y='275' fill='%23ffedd5' font-family='sans-serif' font-size='13' text-anchor='middle'>Kevin Wijaya</text></svg>"
+  },
+  {
+    "id": "15",
+    "title": "Keamanan Siber & Kriptografi",
+    "author": "galih Prakoso",
+    "category": "Teknologi",
+    "price": 27000,
+    "status": "available",
+    "cover": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='320' viewBox='0 0 240 320'><rect width='240' height='320' fill='%231e293b'/><rect x='16' y='16' width='208' height='288' rx='8' fill='none' stroke='%2394a3b8' stroke-width='2'/><text x='120' y='60' fill='%2394a3b8' font-family='sans-serif' font-size='12' font-weight='bold' text-anchor='middle'>TEKNOLOGI</text><text x='120' y='145' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>Keamanan Siber</text><text x='120' y='170' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>dan Kriptografi</text><text x='120' y='275' fill='%23cbd5e1' font-family='sans-serif' font-size='13' text-anchor='middle'>Galih Prakoso</text></svg>"
+  },
+  {
+    "id": "16",
+    "title": "Biologi Molekuler Modern",
+    "author": "Dr. Ratna Sari",
+    "category": "Sains",
+    "price": 23000,
+    "status": "available",
+    "cover": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='320' viewBox='0 0 240 320'><rect width='240' height='320' fill='%23064e3b'/><rect x='16' y='16' width='208' height='288' rx='8' fill='none' stroke='%236ee7b7' stroke-width='2'/><text x='120' y='60' fill='%236ee7b7' font-family='sans-serif' font-size='12' font-weight='bold' text-anchor='middle'>SAINS</text><text x='120' y='145' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>Biologi Molekuler</text><text x='120' y='170' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>Modern</text><text x='120' y='275' fill='%23d1fae5' font-family='sans-serif' font-size='13' text-anchor='middle'>Dr. Ratna Sari</text></svg>"
+  },
+  {
+    "id": "17",
+    "title": "Catatan Harian Penjelajah Waktu",
+    "author": "Eko Prasetyo",
+    "category": "Fiksi",
+    "price": 15000,
+    "status": "available",
+    "cover": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='320' viewBox='0 0 240 320'><rect width='240' height='320' fill='%234c0519'/><rect x='16' y='16' width='208' height='288' rx='8' fill='none' stroke='%23fda4af' stroke-width='2'/><text x='120' y='60' fill='%23fda4af' font-family='sans-serif' font-size='12' font-weight='bold' text-anchor='middle'>FIKSI</text><text x='120' y='145' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>Catatan Harian</text><text x='120' y='170' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>Penjelajah Waktu</text><text x='120' y='275' fill='%23ffe4e6' font-family='sans-serif' font-size='13' text-anchor='middle'>Eko Prasetyo</text></svg>"
+  },
+  {
+    "id": "18",
+    "title": "Seni Negosiasi dan Kepemimpinan",
+    "author": "Dian Sastro-wardoyo",
+    "category": "Bisnis",
+    "price": 22000,
+    "status": "available",
+    "cover": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='320' viewBox='0 0 240 320'><rect width='240' height='320' fill='%23451a03'/><rect x='16' y='16' width='208' height='288' rx='8' fill='none' stroke='%23fcd34d' stroke-width='2'/><text x='120' y='60' fill='%23fcd34d' font-family='sans-serif' font-size='12' font-weight='bold' text-anchor='middle'>BISNIS</text><text x='120' y='145' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>Seni Negosiasi &amp;</text><text x='120' y='170' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>Kepemimpinan</text><text x='120' y='275' fill='%23fef3c7' font-family='sans-serif' font-size='13' text-anchor='middle'>Citra Lestari</text></svg>"
+  },
+  {
+    "id": "19",
+    "title": "Kecerdasan Buatan & Machine Learning",
+    "author": "Dr. Hendri Kurniawan",
+    "category": "Teknologi",
+    "price": 30000,
+    "status": "available",
+    "cover": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='320' viewBox='0 0 240 320'><rect width='240' height='320' fill='%23312e81'/><rect x='16' y='16' width='208' height='288' rx='8' fill='none' stroke='%23a5b4fc' stroke-width='2'/><text x='120' y='60' fill='%23a5b4fc' font-family='sans-serif' font-size='12' font-weight='bold' text-anchor='middle'>TEKNOLOGI</text><text x='120' y='145' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>Kecerdasan Buatan</text><text x='120' y='170' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>&amp; Machine Learning</text><text x='120' y='275' fill='%23e0e7ff' font-family='sans-serif' font-size='13' text-anchor='middle'>Dr. Hendri K.</text></svg>"
+  },
+  {
+    "id": "20",
+    "title": "Kimia Organik Terapan",
+    "author": "Yusuf Maulana",
+    "category": "Sains",
+    "price": 19000,
+    "status": "available",
+    "cover": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='320' viewBox='0 0 240 320'><rect width='240' height='320' fill='%23115e59'/><rect x='16' y='16' width='208' height='288' rx='8' fill='none' stroke='%235eead4' stroke-width='2'/><text x='120' y='60' fill='%235eead4' font-family='sans-serif' font-size='12' font-weight='bold' text-anchor='middle'>SAINS</text><text x='120' y='145' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>Kimia Organik</text><text x='120' y='170' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>Terapan</text><text x='120' y='275' fill='%23ccfbf1' font-family='sans-serif' font-size='13' text-anchor='middle'>Yusuf Maulana</text></svg>"
+  },
+  {
+    "id": "21",
+    "title": "Lembah Kabut di Ujung Timur",
+    "author": "Putri Maharani",
+    "category": "Fiksi",
+    "price": 13000,
+    "status": "available",
+    "cover": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='320' viewBox='0 0 240 320'><rect width='240' height='320' fill='%23581c87'/><rect x='16' y='16' width='208' height='288' rx='8' fill='none' stroke='%23d8b4fe' stroke-width='2'/><text x='120' y='60' fill='%23d8b4fe' font-family='sans-serif' font-size='12' font-weight='bold' text-anchor='middle'>FIKSI</text><text x='120' y='145' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>Lembah Kabut di</text><text x='120' y='170' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>Ujung Timur</text><text x='120' y='275' fill='%23f3e8ff' font-family='sans-serif' font-size='13' text-anchor='middle'>Putri Maharani</text></svg>"
+  },
+  {
+    "id": "22",
+    "title": "Investasi Saham & Pasar Modal",
+    "author": "Andi Wijaya",
+    "category": "Bisnis",
+    "price": 27000,
+    "status": "available",
+    "cover": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='320' viewBox='0 0 240 320'><rect width='240' height='320' fill='%23854d0e'/><rect x='16' y='16' width='208' height='288' rx='8' fill='none' stroke='%23fef08a' stroke-width='2'/><text x='120' y='60' fill='%23fef08a' font-family='sans-serif' font-size='12' font-weight='bold' text-anchor='middle'>BISNIS</text><text x='120' y='145' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>Investasi Saham</text><text x='120' y='170' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>&amp; Pasar Modal</text><text x='120' y='275' fill='%23fef9c3' font-family='sans-serif' font-size='13' text-anchor='middle'>Andi Wijaya</text></svg>"
+  },
+  {
+    "id": "23",
+    "title": "Desain Antarmuka UI/UX Praktis",
+    "author": "Nabila Zahra",
+    "category": "Teknologi",
+    "price": 19000,
+    "status": "available",
+    "cover": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='320' viewBox='0 0 240 320'><rect width='240' height='320' fill='%230369a1'/><rect x='16' y='16' width='208' height='288' rx='8' fill='none' stroke='%237dd3fc' stroke-width='2'/><text x='120' y='60' fill='%237dd3fc' font-family='sans-serif' font-size='12' font-weight='bold' text-anchor='middle'>TEKNOLOGI</text><text x='120' y='145' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>Desain Antarmuka</text><text x='120' y='170' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>UI/UX Praktis</text><text x='120' y='275' fill='%23e0f2fe' font-family='sans-serif' font-size='13' text-anchor='middle'>Nabila Zahra</text></svg>"
+  },
+  {
+    "id": "24",
+    "title": "Sejarah Astronomi Dunia",
+    "author": "Prof. Hendro Santoso",
+    "category": "Sains",
+    "price": 20000,
+    "status": "available",
+    "cover": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='320' viewBox='0 0 240 320'><rect width='240' height='320' fill='%23134e4a'/><rect x='16' y='16' width='208' height='288' rx='8' fill='none' stroke='%2399f6e4' stroke-width='2'/><text x='120' y='60' fill='%2399f6e4' font-family='sans-serif' font-size='12' font-weight='bold' text-anchor='middle'>SAINS</text><text x='120' y='145' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>Sejarah Astronomi</text><text x='120' y='170' fill='%23ffffff' font-family='sans-serif' font-size='17' font-weight='bold' text-anchor='middle'>Dunia</text><text x='120' y='275' fill='%23ccfbf1' font-family='sans-serif' font-size='13' text-anchor='middle'>Prof. Hendro S.</text></svg>"
   }
 ]

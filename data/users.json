@@ -5,12 +5,5 @@
         "email": "budi@email.com",
         "password": "$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
         "member_type": "Premium"
-    },
-    {
-        "id": "M002",
-        "name": "musa ch",
-        "email": "mr@gmail.com",
-        "password": "$2y$12$uTRA.Oc.DqStX5fZ5XKveeXoz3ASRQK1TSaB8D90qcaGik5E83J22",
-        "member_type": "Reguler"
     }
 ]
